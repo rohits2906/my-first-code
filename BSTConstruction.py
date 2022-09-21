@@ -1,3 +1,5 @@
+# time complexity - o(n^2) | space -o(n)
+
 class BST:
     def __init__(self, value, left=None, right=None):
         self.value = value
